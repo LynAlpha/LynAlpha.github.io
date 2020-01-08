@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
+CS Student who interest in machine learning.
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Student of CSE of Chung-Ang University, ROK
+Also, I learn about math
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jaehyoung98@gmail.com](mailto:jaehyoung98@gmail.com)
+[lynx1639@cau.ac.kr](mailto:lynx1639@cau.ac.kr)
