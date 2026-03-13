@@ -301,12 +301,14 @@ footer {
 @import "highlights";
 @import "svg-icons";
 
-.svg-icon {
+.svg-icon.scholar svg {
+  width: 20px;
+  height: 20px;
   fill: #5a5a5a;
+  /* 다른 아이콘들과 색상 맞춤 */
+  vertical-align: middle;
+}
 
-  /* 기본 색상 */
-  &:hover {
-    fill: #4285F4;
-    /* 호버 시 구글 블루 */
-  }
+.svg-icon.scholar:hover svg {
+  fill: #4285F4;
 }
