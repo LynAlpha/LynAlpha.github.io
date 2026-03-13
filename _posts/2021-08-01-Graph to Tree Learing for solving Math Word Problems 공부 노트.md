@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Graph-to-Tree Learing for solving Math Word Problems 공부 노트
+published: false
 ---
 # Abstract  
 최근의 트리 기반 신경망 모델들은 MWP의 풀이표현 생성에 대해 유망하지만, 이들 대부분 모델은 관계성과 수량 정보간의 순서를 잘 포착하지 못함.     
