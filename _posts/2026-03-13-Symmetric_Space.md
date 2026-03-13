@@ -10,7 +10,7 @@ categories: research
 [Project GitHub](https://github.com/LynAlpha/CartanFM)
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/2026_ICLR_Jaehyoung_ver5.png" width="100%" alt="ICLR 2026 Poster" />
+  <img src="{{ site.baseurl }}/assets/2026_ICLR_Jaehyoung_ver56.png" width="100%" alt="ICLR 2026 Poster" />
 </p>
 
 # TL;DR
